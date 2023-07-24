@@ -1,0 +1,2 @@
+x=int(input("ENTER AN NUMBER"))
+print("REMOVE LAST DIGIT NUMBER IS ",x//10)
